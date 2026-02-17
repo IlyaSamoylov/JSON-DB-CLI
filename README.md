@@ -1,4 +1,4 @@
-# Проект 2 — Консольная база данных
+# Консольная база данных
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Poetry](https://img.shields.io/badge/Poetry-управление_зависимостями-orange)
@@ -20,8 +20,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/IlyaSamoylov/project2_Samoylov_M25-555
-   cd project2_Samoylov_M25-555
+   git clone https://github.com/IlyaSamoylov/JSON-DB-CLI
+   cd JSON-DB-CLI
    ```
 
 2. **Установите poetry (если не установлен)**
